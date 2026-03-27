@@ -35,3 +35,5 @@ Every item in your inventory has its own weight, value, and "wear and tear" cond
 
 ## 🏆 Objective
 There is no single way to win. Whether you want to be the wealthiest money launderer in LA or the most feared gang leader in New York, GangsterManager provides the tools to write your own criminal legacy. Survive the streets, earn your respect, and take control of the city.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51UE2EQ)
