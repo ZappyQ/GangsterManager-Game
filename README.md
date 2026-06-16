@@ -40,7 +40,7 @@ A dark, text-driven crime simulation built with Python. Start at a homeless camp
 
 ## Status
 
-🚧 Active development — v0.9. More missions, locations and gang mechanics coming soon.
+🚧 Active development — v1.0. More missions, locations and gang mechanics coming soon.
 
 ---
 
